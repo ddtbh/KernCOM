@@ -1,0 +1,2 @@
+C:\DEVEL\KernCOM\KernTest\bin\Release\KernTest.exe
+C:\DEVEL\KernCOM\KernTest\obj\Release\KernTest.exe

@@ -1,0 +1,4 @@
+C:\DEVEL\KernCOM\KernCOM\bin\x86\Release\KernCOM.dll
+C:\DEVEL\KernCOM\KernCOM\bin\x86\Release\KernCOM.pdb
+C:\DEVEL\KernCOM\KernCOM\obj\x86\Release\KernCOM.dll
+C:\DEVEL\KernCOM\KernCOM\obj\x86\Release\KernCOM.pdb

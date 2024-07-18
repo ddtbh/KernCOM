@@ -1,0 +1,6 @@
+C:\DEVEL\KernCOM\KernGUI\bin\Release\KernGUI.exe
+C:\DEVEL\KernCOM\KernGUI\obj\Release\KernGUI.Form_KernGUI.resources
+C:\DEVEL\KernCOM\KernGUI\obj\Release\KernGUI.Properties.Resources.resources
+C:\DEVEL\KernCOM\KernGUI\obj\Release\KernGUI.csproj.GenerateResource.cache
+C:\DEVEL\KernCOM\KernGUI\obj\Release\KernGUI.exe
+C:\DEVEL\KernCOM\KernGUI\obj\Release\KernGUI.csprojAssemblyReference.cache

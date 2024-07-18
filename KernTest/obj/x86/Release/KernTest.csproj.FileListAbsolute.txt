@@ -1,0 +1,11 @@
+C:\Temp\KernCOM\KernTest\bin\Release\KernTest.exe
+C:\Temp\KernCOM\KernTest\bin\Release\KernTest.pdb
+C:\Temp\KernCOM\KernTest\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Temp\KernCOM\KernTest\obj\x86\Release\KernTest.exe
+C:\Temp\KernCOM\KernTest\obj\x86\Release\KernTest.pdb
+C:\DEVEL\KernCOM\KernTest\bin\Release\KernTest.exe
+C:\DEVEL\KernCOM\KernTest\bin\Release\KernTest.pdb
+C:\DEVEL\KernCOM\KernTest\obj\x86\Release\KernTest.exe
+C:\DEVEL\KernCOM\KernTest\obj\x86\Release\KernTest.pdb
+C:\DEVEL\KernCOM\KernTest\bin\x86\Release\KernTest.exe
+C:\DEVEL\KernCOM\KernTest\bin\x86\Release\KernTest.pdb

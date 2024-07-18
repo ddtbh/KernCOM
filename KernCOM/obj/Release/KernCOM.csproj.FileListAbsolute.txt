@@ -1,0 +1,2 @@
+C:\DEVEL\KernCOM\KernCOM\bin\Release\KernCOM.dll
+C:\DEVEL\KernCOM\KernCOM\obj\Release\KernCOM.dll

@@ -1,0 +1,6 @@
+C:\DEVEL\KernCOM\KernCOM\bin\Debug\KernCOM.dll
+C:\DEVEL\KernCOM\KernCOM\bin\Debug\KernCOM.pdb
+C:\DEVEL\KernCOM\KernCOM\obj\x86\Debug\KernCOM.dll
+C:\DEVEL\KernCOM\KernCOM\obj\x86\Debug\KernCOM.pdb
+C:\DEVEL\KernCOM\KernCOM\bin\x86\Debug\KernCOM.dll
+C:\DEVEL\KernCOM\KernCOM\bin\x86\Debug\KernCOM.pdb

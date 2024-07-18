@@ -1,0 +1,16 @@
+C:\Temp\KERN\KernCOM\KernTest\bin\Debug\KernTest.exe
+C:\Temp\KERN\KernCOM\KernTest\bin\Debug\KernTest.pdb
+C:\Temp\KERN\KernCOM\KernTest\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Temp\KERN\KernCOM\KernTest\obj\x86\Debug\KernTest.exe
+C:\Temp\KERN\KernCOM\KernTest\obj\x86\Debug\KernTest.pdb
+C:\Temp\KernCOM\KernTest\bin\Debug\KernTest.exe
+C:\Temp\KernCOM\KernTest\bin\Debug\KernTest.pdb
+C:\Temp\KernCOM\KernTest\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Temp\KernCOM\KernTest\obj\x86\Debug\KernTest.exe
+C:\Temp\KernCOM\KernTest\obj\x86\Debug\KernTest.pdb
+C:\DEVEL\KernCOM\KernTest\bin\Debug\KernTest.exe
+C:\DEVEL\KernCOM\KernTest\bin\Debug\KernTest.pdb
+C:\DEVEL\KernCOM\KernTest\obj\x86\Debug\KernTest.exe
+C:\DEVEL\KernCOM\KernTest\obj\x86\Debug\KernTest.pdb
+C:\DEVEL\KernCOM\KernTest\bin\x86\Debug\KernTest.exe
+C:\DEVEL\KernCOM\KernTest\bin\x86\Debug\KernTest.pdb
